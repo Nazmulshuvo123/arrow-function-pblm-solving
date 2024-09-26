@@ -1,5 +1,5 @@
 /**
- * Write an arrow function that will 3 parameters, will      multiply the parameters and will return result.
+ * Write an arrow function that will 3 parameters, will multiply the parameters and will return result.
  */
 
 const multiply =(a, b, c) => a * b * c;
